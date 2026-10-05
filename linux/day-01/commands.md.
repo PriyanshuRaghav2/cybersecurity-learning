@@ -1,0 +1,47 @@
+user@webterm:~$
+pwd
+/home/user
+user@webterm:~$
+ls
+documents/  projects/
+user@webterm:~$
+ls -la
+total 24
+drwxr-xr-x 4 user user 4096 Oct  6 05:08 ./
+drwxr-xr-x 3 root root 4096 Oct  6 05:08 ../
+-rw-r--r-- 1 user user   46 Oct  6 05:08 .gitconfig
+-rw-r--r-- 1 user user  113 Oct  6 05:08 .zshrc
+drwxr-xr-x 2 user user 4096 Oct  6 05:08 documents/
+drwxr-xr-x 2 user user 4096 Oct  6 05:08 projects/
+user@webterm:~$
+cd 
+user@webterm:~$
+ls
+documents/  projects/
+user@webterm:~$
+cd documents
+user@webterm:~/documents$
+ls
+readme.txt  sample.txt
+user@webterm:~/documents$
+touch notes.txt
+user@webterm:~/documents$
+echo hello
+hello
+user@webterm:~/documents$
+echo hello world > notes.txt
+user@webterm:~/documents$
+cat notes.txt
+hello world
+user@webterm:~/documents$
+whoami
+user
+user@webterm:~/documents$
+date
+Mon Oct  5 23:40:02 UTC 2026
+user@webterm:~/documents$
+date +%F
+2026-10-05
+user@webterm:~/documents$
+which ls
+/usr/bin/ls
