@@ -1,4 +1,17 @@
-Commands learn on day 1
+# Day 1 - Linux Fundamentals
+
+## Topics Covered
+
+- What is Linux?
+- Linux distributions
+- Linux kernel
+- Terminal and shell
+- Bash
+- Linux filesystem
+- Absolute and relative paths
+- Basic Linux commands
+
+## Commands Practiced
 ls (list) - is used to list all the files and directories present in the currect working directories.
 pwd (print working directory) - is used to print or display the current parth of the current working directory.
 cd (change directory) - is used to change the woking directory.
