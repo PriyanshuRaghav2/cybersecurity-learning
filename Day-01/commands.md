@@ -32,3 +32,4 @@ clear - is used to clear the terminal.
 history - is used to display all the previous commands used before history.
 
 whoami (who am i) - is used to display the currect user name.
+
