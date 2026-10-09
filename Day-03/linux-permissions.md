@@ -16,26 +16,26 @@ Topics Learned
 * SUID
 * SGID
 
-Permission Basics
+##Permission Basics
 
 r = Read
 w = Write
 x = Execute
 
 
-Linux permissions are divided into:
+##Linux permissions are divided into:
 
 User
 Group
 Others
 
 
-Check Permissions
+##Check Permissions
 
 ls -l
 
 
-Example:
+##Example:
 
 -rwxr-xr--
 
@@ -46,20 +46,20 @@ Others → r--
 
 chmod
 
-Used to change file permissions.
+##Used to change file permissions.
 
 chmod u+x script.sh
 chmod g+w file.txt
 chmod o-r file.txt
 
-Numeric Permissions
+##Numeric Permissions
 
 r = 4
 w = 2
 x = 1
 
 
-Common permissions:
+##Common permissions:
 
 
 600 = rw-------
@@ -68,25 +68,25 @@ Common permissions:
 755 = rwxr-xr-x
 
 
-Examples:
+##Examples:
 
 chmod 600 private.txt
 chmod 644 file.txt
 chmod 755 script.sh
 
 
-Ownership
+##Ownership
 
 
 chown username file.txt
 chgrp groupname file.txt
 
 
-SUID
+##SUID
 
 SUID allows an executable to run with the privileges of its file owner.
 
-Example:
+##Example:
 
 -rwsr-xr-x
 
@@ -98,7 +98,7 @@ Users and programs should have only the permissions they need.
 
 Incorrect permissions can lead to unauthorized access and security vulnerabilities.
 
-Commands Practiced
+##Commands Practices
 
 ls -l
 chmod
