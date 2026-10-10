@@ -1,6 +1,6 @@
-# Day 2 - Linux File Management
+# Day 2 - Linux File Management:
 
-## Topics Covered
+## Topics Covered:
 
 - Linux directories
 - Linux files
@@ -13,7 +13,7 @@
 - Identifying files
 - Reading parts of files
 
-## Commands Practiced
+## Commands Practiced:
 
 rmdir (remove directory) - is used to remove delete an empty directory.
 
