@@ -1,6 +1,6 @@
-# Day 1 - Linux Fundamentals
+# Day 1 - Linux Fundamentals:
 
-## Topics Covered
+## Topics Covered:
 
 - What is Linux?
 - Linux distributions
@@ -11,7 +11,7 @@
 - Absolute and relative paths
 - Basic Linux commands
 
-## Commands Practiced
+## Commands Practiced:
 
 ls (list) - is used to list all the files and directories present in the currect working directories.
 
