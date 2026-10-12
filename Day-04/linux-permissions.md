@@ -10,8 +10,8 @@ Linux permissions control what users can do with files and directories.
 
 ## 2. Permission Categories
 
-- **User (u):** The file owner.
-- **Group (g):** Users who belong to the file's group.
+- **User (u):** The file owner. 
+- **Group (g):** Users who belong to the file's group. 
 - **Others (o):** All other users.
 
 Example:
