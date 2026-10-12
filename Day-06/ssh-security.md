@@ -1,10 +1,10 @@
-# Day 6 — SSH and Remote Access Security
+# Day 6 — SSH and Remote Access Security 
 
-## 1. What is SSH?
+## 1. What is SSH? 
 
 SSH stands for Secure Shell. It is a network protocol used to securely connect to and manage another computer over a network. SSH encrypts the communication between the client and server.
 
-## 2. Important Concepts
+## 2. Important Concepts 
 
 - **SSH Client:** The program used to connect to a remote computer.
 - **SSH Server:** The service that accepts incoming SSH connections.
@@ -12,9 +12,9 @@ SSH stands for Secure Shell. It is a network protocol used to securely connect t
 - **Password Authentication:** Uses an account password to log in.
 - **SSH Key Authentication:** Uses a public and private key pair for authentication.
 
-## 3. Linux Commands Practised
+## 3. Linux Commands Practised 
 
-### Check SSH Version
+### Check SSH Version 
 
 ```bash
 ssh -V
