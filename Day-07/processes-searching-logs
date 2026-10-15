@@ -8,14 +8,14 @@ A process is a program that is currently running on a computer. Linux uses proce
 
 **1. `ps`**
 
-Displays information about running processes.
+Displays information about running processes. 
 
 ```bash
 ps
 ps aux
 ```
 
-- `ps` shows processes associated with the current terminal.
+- `ps` shows processes associated with the current terminal. 
 - `ps aux` displays a more detailed list of running processes.
 
 **2. `top`**
