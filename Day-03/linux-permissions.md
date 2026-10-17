@@ -6,8 +6,8 @@ Topics Learned
 * Read (r)
 * Write (w)
 * Execute (x)
-* User / Owner
-* Group
+* User / Owner 
+* Group 
 * Others
 * ls -l
 * chmod
