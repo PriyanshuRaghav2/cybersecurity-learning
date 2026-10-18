@@ -1,6 +1,6 @@
 # Day 4 — Linux File Permissions and User Management
 
-## 1. Linux File Permissions
+## 1. Linux File Permissions 
 
 Linux permissions control what users can do with files and directories.
 
