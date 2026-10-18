@@ -6,7 +6,7 @@
 - Understanding groups
 - Difference between a normal user and root
 - Basic user and group information commands
-- How users, groups, and file permissions work together
+- How users, groups, and file permissions work together 
 
 ## Commands Practised
 
