@@ -8,10 +8,10 @@
 - Basic user and group information commands
 - How users, groups, and file permissions work together 
 
-## Commands Practised 
+## Commands Practised  
 
 ### 1. `whoami` 
-Displays the username of the currently logged-in user.
+Displays the username of the currently  logged-in user.
 
 ```bash
 whoami
